@@ -1,0 +1,30 @@
+.text
+{
+    border: 2px green double;
+    overflow-y: scroll;
+    color : white;
+    background-color: rgb(114, 218, 114);
+    padding: 6px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    width: 200;
+    height: 335px;
+    box-shadow: 5px 5px 3px rgb(26, 239, 26);
+}
+
+#table
+{
+    border : 2px whitesmoke solid;
+    width: 50%;
+    height: 250px;
+}
+
+#deux
+{
+    margin-bottom: 80px;
+}
+
+audio
+{
+    border: 2px rgb(114, 218, 114) solid;
+}

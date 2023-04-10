@@ -1,0 +1,96 @@
+.container1
+{
+    width: 575px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    box-shadow: 5px 5px 3px 0px pink;
+    margin: 10% 25%;
+}
+
+.content1
+{
+    width: 40%;
+}
+
+.content2
+{
+  width: 60%;
+  background-image: url(../imagehtml/alg.jpg);
+  background-size: cover;
+  background-repeat: round; 
+}
+
+.saou2
+{
+    font-size: 12px;
+    font-style: italic;
+    margin-left: 45px;
+    font-weight: bold;
+}
+
+.saou
+{
+    margin-left: 40px;
+    font-size: 38px;
+    margin-top: -15px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+.rouge
+{
+    color: red;
+}
+
+.vert
+{
+    color: green;
+}
+
+.bleu
+{
+    color: blue;
+}
+
+.saou1
+{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 40px;
+}
+
+.adore
+{
+    margin-left: 65%;
+    margin-top: 15px;
+    font-size: 25px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+.bandit
+{
+    margin-left: 40px;
+    font-size: 30px;
+    margin-top: -15px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+.lambda
+{
+    font-size: 20px;
+    opacity: 0.8;
+}
+
+.fin
+{
+    margin-top: -15px;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 23px;
+    margin-left: 40px;
+
+}

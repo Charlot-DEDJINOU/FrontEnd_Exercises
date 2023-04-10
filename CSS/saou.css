@@ -1,0 +1,80 @@
+.container
+{
+  border: 2px blue solid;
+  width: 720px;
+  height: 400px;
+  margin: 10px;
+  background-image: url(../imagehtml/Al.jpg.jpg);
+  background-size: contain;
+  opacity: inherit;
+  animation-name: saou;
+  animation-delay: 2s;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+.content
+{
+  width: 190px;
+  height: 400px;
+  border-radius: 10px;
+  background-image:url(../imagehtml/saou1.jpg);
+  background-size:cover;
+  opacity: inherit;
+  border: 1px rgb(4, 250, 4) solid;
+  animation-name: charlot;
+  animation-delay: 2s;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes charlot
+{
+  from{
+  width: 190px;
+  height: 400px;
+  border-radius: 10px;
+  background-image:url(../imagehtml/saou1.jpg);
+  background-size:cover;
+  opacity: inherit;
+  border: 1px rgb(4, 250, 4) solid;
+  }
+  to{
+  width: 230px;
+  height: 491px;
+  margin: 3px 36% 0px 36%;
+  background-image: url(../imagehtml/Al.jpg.jpg);
+  background-size:cover;
+  border-radius: 50px;
+  cursor: pointer;
+  border: 2px rgb(10, 21, 229) solid;
+  box-shadow:0px 0px 3px 5px rgb(174, 172, 172) ;
+  transform: rotate(360deg);
+  }
+}
+
+@keyframes saou
+{
+  from{
+  border: 2px blue solid;
+  width: 720px;
+  height: 400px;
+  margin: 10px;
+  background-image: url(../imagehtml/Al.jpg.jpg);
+  background-size: contain;
+  opacity: inherit;
+  }
+  to{
+  background-image: url(../imagehtml/saou1.jpg);
+  background-size: contain;
+  margin: 100px 30%;
+  height: 500px;
+  border-radius: 30px;
+  border: 5px rgb(238, 77, 179) solid;
+  box-shadow: -5px 5px 3px rgb(240, 254, 46);
+  }
+}
+
+

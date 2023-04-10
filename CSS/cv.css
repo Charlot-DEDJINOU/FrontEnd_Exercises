@@ -1,0 +1,28 @@
+.lo
+{
+background-color: darkgreen;
+color: black;
+padding-right: 30px;
+padding-left: 30px;
+
+}
+
+.in
+{
+background-color: lightblue;
+color: black;
+}
+
+img
+{
+position: relative;
+left: 30px;
+top: 10px;
+border-radius: 50px;
+}
+
+.jo
+{
+background-color: lightgoldenrodyellow;
+color: black;
+}
