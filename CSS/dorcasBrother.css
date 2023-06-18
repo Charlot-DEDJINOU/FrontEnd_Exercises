@@ -1,0 +1,91 @@
+.container1
+{
+    width: 575px;
+    height: 500px;
+    border: 2px solid rgb(224, 221, 221);
+    display: flex;
+    flex-direction: row;
+    box-shadow: 5px 5px 3px 0px rgb(224, 221, 221);
+    margin: 10% 25%;
+}
+
+.content1
+{
+    width: 40%;
+}
+
+.content2
+{
+  width: 60%;
+  background-image: url(../imagehtml/alg.jpg);
+  background-size: cover;
+  background-repeat: round; 
+}
+
+.dorcas2
+{
+    font-size: 15px;
+    font-style: italic;
+    margin-left: 45px;
+    font-weight: bold;
+}
+
+.dorcas
+{
+    margin-left: 40px;
+    font-size: 50px;
+    margin-top: -15px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+.rouge
+{
+    color: red;
+}
+
+.vert
+{
+    color: green;
+}
+
+.bleu
+{
+    color: blue;
+}
+
+.dorcas1
+{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 40px;
+}
+
+.adore
+{
+    margin-left: 65%;
+    margin-top: 15px;
+    font-size: 25px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+.bandit
+{
+    margin-left: 85px;
+    font-size: 40px;
+    margin-top: -30px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+.fin
+{
+    margin-top: -30px;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 40px;
+
+}
